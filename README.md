@@ -1,4 +1,5 @@
 
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ankan-manna.ankan-manna"/>
 
 <h1 align="center">
@@ -11,13 +12,13 @@
 
 <div align="center">
 
- 🔭 I’m currently working on *a MERN*
+ 🔭 I’m currently working on **a MERN**
 
- 🌱 I’m currently learning *Python , AWS*
+ 🌱 I’m currently learning **Python , AWS**
 
-💬 Ask me about *Node.js, React.. or anything [here](https://github.com/ankan-manna)*
+💬 Ask me about **Node.js, React.. or anything [here](https://github.com/ankan-manna)**
 
-⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
 
@@ -65,10 +66,27 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ankan-manna&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ankan-manna&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ankan-manna&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 height=250 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ankan-manna&count_private=true&theme=github_dark&border_radius=10" alt="streak stats"/>
+  <img width=390 height=250 src="https://github-readme-stats-salesp07.vercel.app/api?username=ankan-manna&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><hr/>
+
+  <img align="center" width=390 height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan-manna&layout=compact&theme=github_dark&hide_progress=true&langs_count=40&count_private=true" alt="top langs" /> 
+  <br/><hr/>
+  <img width=390 height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan-manna&langs_count=12&layout=compact&theme=github_dark" alt="top langs" /> 
+      <img width=390 height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan-manna&layout=donut&theme=github_dark"/> <br/> <hr/>
+        <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankan-manna&theme=github_dark"/>
+          <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankan-manna&theme=github_dark"/> <br/> <hr/>
+         <img width=390 src="https://github-contributor-stats.vercel.app/api?username=ankan-manna&limit=5&theme=github_dark&combine_all_yearly_contributions=tru"/> 
+     <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankan-manna&theme=github_dark"/> <br/> <hr/>
+    <img width=1001 align="center" src="https://github-profile-trophy.vercel.app/?username=ankan-manna&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophy" /> <br/> <hr/>
+   <img width=1001 align="center" src="https://ghchart.rshah.org/ankan-manna" alt="activity" /> <br/> <hr/>
+ <img width=1001 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankan-manna&theme=github_dark" /> <br/> <hr/>
+ <img width=1001 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ankan-manna&theme=react-dark&hide_border=true" alt="activity" /> <br/> <hr/>
+<div align="center">
+    <img src="https://img.shields.io/github/last-commit/ankan-manna/ankan-manna?style=for-the-badge&color=539BF5&labelColor=0D1117&logo=github"/>
+</div>
+
+    
 </div>
 
 <br/><br/>
