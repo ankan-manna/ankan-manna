@@ -12,9 +12,9 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **a MERN**
+ 🔭 I’m currently working as **Software Engineer at Unicommerce eSolution LTD**
 
- 🌱 I’m currently learning **Python , AWS**
+ 🌱 I’m currently learning **SpringBoot , AWS**
 
 💬 Ask me about **Node.js, React.. or anything [here](https://github.com/ankan-manna)**
 
